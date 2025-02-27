@@ -1,2 +1,4 @@
 # Financial-Simulation-Model
-Developed a financial simulation model for oil and gas exploration, incorporating cost estimation, production risk, revenue forecasting, and Net Present Value (NPV) analysis to support investment decision-making.
+- Built a financial simulation model to estimate the potential return and risks of an oil and gas investment, incorporating uncertainty in well production and costs.
+- Analyzed investment scenarios using historical drilling costs and future oil price projections to calculate expected returns and downside risk (VaR, CVaR).
+- Provided data-driven insights to support decision-making, helping assess financial feasibility and risk exposure for the project.
